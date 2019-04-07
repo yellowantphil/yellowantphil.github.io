@@ -1,0 +1,5 @@
+body    { background-color: black; }
+.lyrics { white-space: pre; }
+.girl   { color: magenta; font-family: sans-serif; }
+.guy    { color: yellow; font-family: serif; }
+.both   { color: #00ff00; font-family: serif; font-style: italic; }
